@@ -261,6 +261,15 @@
 			"notests": true
 		},
 		{
+			"importpath": "github.com/aws/aws-xray-sdk-go/plugins/ec2",
+			"repository": "https://github.com/aws/aws-xray-sdk-go",
+			"vcs": "git",
+			"revision": "037b81b2bf76640a3677c48927868e5edda05e06",
+			"branch": "master",
+			"path": "/plugins/ec2",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/aws/aws-xray-sdk-go/resources",
 			"repository": "https://github.com/aws/aws-xray-sdk-go",
 			"vcs": "git",
